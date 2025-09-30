@@ -1,0 +1,1 @@
+This project was challenging because I had to learn about handling missing data, but I enjoyed creating the visualizations.
